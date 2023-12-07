@@ -1,4 +1,4 @@
-# ZimVoice
+# Another Social Media App
 
 
 ## Motivation
